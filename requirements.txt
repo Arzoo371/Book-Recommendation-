@@ -1,0 +1,8 @@
+streamlit
+plotly
+seaborn
+pandas
+numpy
+pickle
+flask
+gunicorn
